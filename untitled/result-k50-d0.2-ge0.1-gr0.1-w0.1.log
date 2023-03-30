@@ -1,0 +1,62 @@
+Complete iteration #0:
+------Current MRR:9.44296749846456E-4	Current Hits@10:0.001
+Complete iteration #50:
+------Current MRR:0.26887559949289025	Current Hits@10:0.461
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #100:
+------Current MRR:0.23932846870417282	Current Hits@10:0.4655
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #150:
+------Current MRR:0.23880188451564	Current Hits@10:0.4495
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #200:
+------Current MRR:0.2177906006975746	Current Hits@10:0.4345
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #250:
+------Current MRR:0.20933619195877357	Current Hits@10:0.4315
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #300:
+------Current MRR:0.22439031355028116	Current Hits@10:0.437
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #350:
+------Current MRR:0.2213476166884376	Current Hits@10:0.4235
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #400:
+------Current MRR:0.20613293299920885	Current Hits@10:0.4125
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #450:
+------Current MRR:0.20272450886943558	Current Hits@10:0.407
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #500:
+------Current MRR:0.20536704050908128	Current Hits@10:0.4005
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #550:
+------Current MRR:0.20230730243987768	Current Hits@10:0.407
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #600:
+------Current MRR:0.1939325043532716	Current Hits@10:0.3775
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #650:
+------Current MRR:0.19920858406873115	Current Hits@10:0.39
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #700:
+------Current MRR:0.203867034195512	Current Hits@10:0.3985
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #750:
+------Current MRR:0.20658070413298918	Current Hits@10:0.3915
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #800:
+------Current MRR:0.1993832973232625	Current Hits@10:0.3895
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #850:
+------Current MRR:0.2074508202690377	Current Hits@10:0.402
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #900:
+------Current MRR:0.20616736254915083	Current Hits@10:0.3885
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #950:
+------Current MRR:0.18943065708275342	Current Hits@10:0.3875
+------Best iteration #50	0.26887559949289025	0.461
+Complete iteration #1000:
+------Current MRR:0.20227905053902623	Current Hits@10:0.3935
+------Best iteration #50	0.26887559949289025	0.461
